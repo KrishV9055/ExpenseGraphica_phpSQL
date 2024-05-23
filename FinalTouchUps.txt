@@ -1,0 +1,1 @@
+1. heading size on login register page in mobile view is not set
